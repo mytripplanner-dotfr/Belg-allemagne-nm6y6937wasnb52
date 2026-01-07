@@ -1,0 +1,457 @@
+{
+  "pays": "Allemagne & Belgique",
+  "drapeau": "🇩🇪🇧🇪",
+  "symbole": "🏰",
+  "titre": "Charme Rhénan et Douceurs Belges",
+  "budget_total": "Environ 3300-3500 €/personne",
+  "duree": "12 jours",
+  "date_debut": "2026-02-05",
+  "date_fin": "2026-02-17",
+  "temps_vol": "18h20 depuis Jone, Mozambique",
+  "escale": "1",
+  "jours": [
+    {
+      "jour": 1,
+      "symbole": "🛬",
+      "titre": "Arrivée à Francfort, première immersion",
+      "legende": "Après un long voyage, la première journée est dédiée à une arrivée en douceur à Francfort. Installez-vous confortablement et profitez d'une balade relaxante pour vous imprégner de l'ambiance de la ville, entre modernité et histoire.",
+      "lieu": "Francfort, Allemagne",
+      "activites": [
+        "<strong>🛬 Arrivée à Francfort</strong>: Atterrissage à l'aéroport de Francfort (FRA) et transfert vers votre hôtel.",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Prenez le temps de vous rafraîchir et de vous détendre après le vol.",
+        "<strong>🚶‍♂️ Balade relaxante sur le Römerberg</strong>: Découvrez la place historique du Römerberg, ses maisons à colombages et l'hôtel de ville, pour une première touche de l'Allemagne."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Francfort, Francfort",
+          "categorie": "Aéroport",
+          "coords": { "lat": 50.0379, "lng": 8.5622 }
+        },
+        {
+          "nom_recherche": "Römerberg, Francfort",
+          "categorie": "Place historique",
+          "coords": { "lat": 50.1109, "lng": 8.6821 }
+        }
+      ],
+      "illustration": "jour1.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "À savoir",
+          "texte": "Le trajet de l'aéroport au centre-ville de Francfort est rapide et facile en S-Bahn (train de banlieue)."
+        }
+      ]
+    },
+    {
+      "jour": 2,
+      "symbole": "🌸",
+      "titre": "Détente florale et thermale",
+      "legende": "Cette journée combine la beauté apaisante des jardins botaniques de Francfort avec la relaxation profonde des thermes de Wiesbaden. Un équilibre parfait pour recharger les batteries et profiter de moments de quiétude.",
+      "lieu": "Francfort & Wiesbaden, Allemagne",
+      "activites": [
+        "<strong>🌳 Visite du Palmengarten</strong>: Explorez ce magnifique jardin botanique, un havre de paix au cœur de Francfort, avec ses serres tropicales et ses paysages variés.",
+        "<strong>🚆 Trajet vers Wiesbaden</strong>: Prenez un court trajet en train pour rejoindre la ville thermale de Wiesbaden (environ 40 min).",
+        "<strong>🧖‍♀️ Relaxation aux Thermes de Kaiser-Friedrich</strong>: Plongez dans les eaux chaudes et apaisantes de ces thermes historiques, réputés pour leurs bienfaits relaxants."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Palmengarten, Francfort",
+          "categorie": "Jardin botanique",
+          "coords": { "lat": 50.1226, "lng": 8.6582 }
+        },
+        {
+          "nom_recherche": "Kaiser-Friedrich-Therme, Wiesbaden",
+          "categorie": "Thermes",
+          "coords": { "lat": 50.0847, "lng": 8.2407 }
+        }
+      ],
+      "illustration": "jour2.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil détente",
+          "texte": "N'oubliez pas votre maillot de bain et une serviette pour les thermes. Certains établissements proposent la location sur place."
+        }
+      ]
+    },
+    {
+      "jour": 3,
+      "symbole": "🏰",
+      "titre": "Charme romantique d'Heidelberg",
+      "legende": "Partez à la découverte d'Heidelberg, une ville emblématique de la romance allemande. Entre son château majestueux, sa vieille ville pittoresque et ses vues imprenables, cette journée promet des moments mémorables et des balades douces.",
+      "lieu": "Heidelberg, Allemagne",
+      "activites": [
+        "<strong>🚆 Trajet vers Heidelberg</strong>: Prenez un train de Francfort à Heidelberg (environ 1h).",
+        "<strong>👑 Exploration du Château d'Heidelberg</strong>: Visitez les ruines imposantes du château, offrant un panorama spectaculaire sur la ville et le Neckar.",
+        "<strong>🚶‍♀️ Flânerie dans la Vieille Ville</strong>: Perdez-vous dans les ruelles pavées, admirez les maisons baroques et découvrez la plus longue rue commerçante piétonne d'Allemagne.",
+        "<strong>🏞️ Promenade sur le Chemin des Philosophes</strong>: Profitez d'une balade paisible sur ce sentier historique, offrant les plus belles vues sur le château et la vieille ville."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Château de Heidelberg, Heidelberg",
+          "categorie": "Château",
+          "coords": { "lat": 49.4107, "lng": 8.7147 }
+        },
+        {
+          "nom_recherche": "Chemin des Philosophes, Heidelberg",
+          "categorie": "Sentier panoramique",
+          "coords": { "lat": 49.4150, "lng": 8.7000 }
+        }
+      ],
+      "illustration": "jour3.jpg",
+      "encarts": [
+        {
+          "symbole": "📸",
+          "titre": "Point de vue",
+          "texte": "Le Chemin des Philosophes offre les meilleures opportunités de photos du château et de la ville."
+        }
+      ]
+    },
+    {
+      "jour": 4,
+      "symbole": "⛪",
+      "titre": "Majesté gothique de Cologne",
+      "legende": "Après le charme d'Heidelberg, direction Cologne pour admirer sa cathédrale emblématique, chef-d'œuvre de l'architecture gothique. La journée se poursuit par une balade apaisante le long du Rhin, offrant des vues magnifiques sur la ville.",
+      "lieu": "Cologne, Allemagne",
+      "activites": [
+        "<strong>🚆 Trajet vers Cologne</strong>: Prenez un train d'Heidelberg à Cologne (environ 2h30).",
+        "<strong>⛪ Visite de la Cathédrale de Cologne</strong>: Admirez l'impressionnante cathédrale, classée au patrimoine mondial de l'UNESCO, et montez si vous le souhaitez pour une vue panoramique.",
+        "<strong>🚶‍♂️ Balade le long du Rhin</strong>: Profitez d'une promenade relaxante sur les rives du Rhin, observant les bateaux et les ponts emblématiques de Cologne."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Cathédrale de Cologne, Cologne",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 50.9413, "lng": 6.9583 }
+        },
+        {
+          "nom_recherche": "Rives du Rhin, Cologne",
+          "categorie": "Promenade",
+          "coords": { "lat": 50.9380, "lng": 6.9630 }
+        }
+      ],
+      "illustration": "jour4.jpg",
+      "encarts": [
+        {
+          "symbole": "🚶‍♀️",
+          "titre": "Astuce",
+          "texte": "La cathédrale est juste à côté de la gare centrale de Cologne, ce qui facilite l'accès à l'arrivée."
+        }
+      ]
+    },
+    {
+      "jour": 5,
+      "symbole": "🍫",
+      "titre": "Douceurs et histoire à Cologne et Bonn",
+      "legende": "Cette journée vous invite à une exploration gourmande et culturelle. Découvrez l'histoire du chocolat à Cologne avant de vous plonger dans l'héritage musical de Beethoven à Bonn, le tout dans un rythme doux et agréable.",
+      "lieu": "Cologne & Bonn, Allemagne",
+      "activites": [
+        "<strong>🍫 Visite du Musée du Chocolat Imhoff</strong>: Plongez dans l'univers du chocolat, de sa culture à sa fabrication, avec dégustations à la clé.",
+        "<strong>🚆 Trajet vers Bonn</strong>: Prenez un court trajet en train de Cologne à Bonn (environ 25 min).",
+        "<strong>🎶 Découverte de la Maison de Beethoven</strong>: Visitez la maison natale du célèbre compositeur, transformée en musée, pour un aperçu de sa vie et de son œuvre."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Musée du Chocolat Imhoff, Cologne",
+          "categorie": "Musée",
+          "coords": { "lat": 50.9324, "lng": 6.9649 }
+        },
+        {
+          "nom_recherche": "Maison de Beethoven, Bonn",
+          "categorie": "Musée",
+          "coords": { "lat": 50.7374, "lng": 7.1005 }
+        }
+      ],
+      "illustration": "jour5.jpg",
+      "encarts": [
+        {
+          "symbole": "😋",
+          "titre": "Gourmandise",
+          "texte": "Ne manquez pas la fontaine de chocolat au musée, où vous pouvez tremper des gaufrettes!"
+        }
+      ]
+    },
+    {
+      "jour": 6,
+      "symbole": "🇧🇪",
+      "titre": "Bienvenue à Bruxelles, capitale européenne",
+      "legende": "Traversez la frontière pour rejoindre Bruxelles, la vibrante capitale belge. La journée est consacrée à la découverte de son cœur historique, la Grand-Place, et de ses symboles les plus célèbres, pour une première immersion dans la culture belge.",
+      "lieu": "Bruxelles, Belgique",
+      "activites": [
+        "<strong>🚆 Trajet vers Bruxelles</strong>: Prenez un train de Bonn à Bruxelles (environ 2h30-3h).",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Déposez vos bagages et préparez-vous à explorer.",
+        "<strong>✨ Découverte de la Grand-Place</strong>: Admirez la splendeur de la Grand-Place, classée à l'UNESCO, avec ses maisons des corporations et l'Hôtel de Ville.",
+        "<strong>🚶‍♂️ Rencontre avec Manneken Pis</strong>: Saluez la célèbre petite statue, symbole de l'esprit irrévérencieux de Bruxelles."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Grand-Place, Bruxelles",
+          "categorie": "Place historique",
+          "coords": { "lat": 50.8467, "lng": 4.3525 }
+        },
+        {
+          "nom_recherche": "Manneken Pis, Bruxelles",
+          "categorie": "Statue emblématique",
+          "coords": { "lat": 50.8449, "lng": 4.3499 }
+        }
+      ],
+      "illustration": "jour6.jpg",
+      "encarts": [
+        {
+          "symbole": "ℹ️",
+          "titre": "Transport",
+          "texte": "Les trains Thalys ou ICE sont les options les plus rapides pour relier l'Allemagne à la Belgique."
+        }
+      ]
+    },
+    {
+      "jour": 7,
+      "symbole": "⚛️",
+      "titre": "Icônes bruxelloises et douceurs chocolatées",
+      "legende": "Cette journée à Bruxelles vous emmène des structures futuristes de l'Atomium aux saveurs exquises du chocolat belge. Une combinaison parfaite d'exploration visuelle et de plaisir gustatif, à un rythme tranquille.",
+      "lieu": "Bruxelles, Belgique",
+      "activites": [
+        "<strong>⚛️ Visite de l'Atomium</strong>: Explorez ce monument emblématique, symbole de Bruxelles, et profitez des vues panoramiques depuis ses sphères.",
+        "<strong>🌳 Promenade au Parc du Cinquantenaire</strong>: Détendez-vous dans ce grand parc urbain, abritant des musées et un arc de triomphe majestueux.",
+        "<strong>🍫 Dégustation de chocolat belge</strong>: Offrez-vous une pause gourmande dans une chocolaterie artisanale, pour savourer les célèbres pralines belges."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Atomium, Bruxelles",
+          "categorie": "Monument",
+          "coords": { "lat": 50.8949, "lng": 4.3416 }
+        },
+        {
+          "nom_recherche": "Parc du Cinquantenaire, Bruxelles",
+          "categorie": "Parc",
+          "coords": { "lat": 50.8399, "lng": 4.3929 }
+        }
+      ],
+      "illustration": "jour7.jpg",
+      "encarts": [
+        {
+          "symbole": "🛍️",
+          "titre": "Souvenirs",
+          "texte": "Les chocolats belges sont un excellent souvenir à rapporter, avec de nombreuses boutiques de qualité dans le centre-ville."
+        }
+      ]
+    },
+    {
+      "jour": 8,
+      "symbole": "🛶",
+      "titre": "Charme intemporel de Bruges",
+      "legende": "Évadez-vous pour une journée à Bruges, la \"Venise du Nord\". Ses canaux pittoresques, ses rues pavées et son architecture médiévale en font un lieu idéal pour des balades romantiques et des moments de pure sérénité.",
+      "lieu": "Bruges, Belgique",
+      "activites": [
+        "<strong>🚆 Trajet vers Bruges</strong>: Prenez un train de Bruxelles à Bruges (environ 1h).",
+        "<strong>🛶 Croisière sur les canaux</strong>: Laissez-vous glisser sur les canaux pour admirer la ville sous un angle unique et apaisant.",
+        "<strong>🚶‍♀️ Flânerie sur le Markt et le Burg</strong>: Explorez les places principales, admirez le Beffroi et les bâtiments historiques.",
+        "<strong>🦢 Détente au Lac d'Amour (Minnewater)</strong>: Profitez d'une promenade romantique autour de ce lac paisible, souvent orné de cygnes."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Canaux de Bruges, Bruges",
+          "categorie": "Canaux",
+          "coords": { "lat": 51.2089, "lng": 3.2242 }
+        },
+        {
+          "nom_recherche": "Markt, Bruges",
+          "categorie": "Place historique",
+          "coords": { "lat": 51.2088, "lng": 3.2247 }
+        },
+        {
+          "nom_recherche": "Minnewaterpark, Bruges",
+          "categorie": "Parc",
+          "coords": { "lat": 51.1990, "lng": 3.2240 }
+        }
+      ],
+      "illustration": "jour8.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Bruges est très agréable à explorer à pied. Prévoyez de bonnes chaussures pour les pavés."
+        }
+      ]
+    },
+    {
+      "jour": 9,
+      "symbole": "🏛️",
+      "titre": "Trésors médiévaux de Gand",
+      "legende": "Aujourd'hui, découvrez Gand, une autre perle flamande, réputée pour son riche passé médiéval et son ambiance étudiante. Entre châteaux imposants et quais pittoresques, la journée promet une exploration culturelle douce et enrichissante.",
+      "lieu": "Gand, Belgique",
+      "activites": [
+        "<strong>🚆 Trajet vers Gand</strong>: Prenez un train de Bruges à Gand (environ 30 min).",
+        "<strong>🏰 Visite du Château des Comtes (Gravensteen)</strong>: Explorez cette forteresse médiévale bien conservée, offrant une plongée dans l'histoire et des vues sur la ville.",
+        "<strong>⛪ Admiration de la Cathédrale Saint-Bavon</strong>: Découvrez cette cathédrale gothique, célèbre pour son retable de l'Agneau Mystique (si l'accès est possible et souhaité).",
+        "<strong>🚶‍♂️ Balade le long du Graslei et Korenlei</strong>: Profitez d'une promenade relaxante sur ces quais historiques, bordés de magnifiques maisons de corporations."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Château des Comtes, Gand",
+          "categorie": "Château",
+          "coords": { "lat": 51.0579, "lng": 3.7228 }
+        },
+        {
+          "nom_recherche": "Cathédrale Saint-Bavon, Gand",
+          "categorie": "Cathédrale",
+          "coords": { "lat": 51.0538, "lng": 3.7279 }
+        },
+        {
+          "nom_recherche": "Graslei, Gand",
+          "categorie": "Quai historique",
+          "coords": { "lat": 51.0544, "lng": 3.7240 }
+        }
+      ],
+      "illustration": "jour9.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Ambiance",
+          "texte": "Gand est une ville très vivante grâce à sa population étudiante, avec de nombreux cafés et restaurants agréables."
+        }
+      ]
+    },
+    {
+      "jour": 10,
+      "symbole": "♨️",
+      "titre": "Détente absolue à Spa",
+      "legende": "Après les explorations urbaines, cette journée est entièrement dédiée à la relaxation dans la ville d'eau de Spa. Profitez des bienfaits des thermes et d'une douce immersion dans la nature environnante des Ardennes.",
+      "lieu": "Spa, Belgique",
+      "activites": [
+        "<strong>🚆 Trajet vers Spa</strong>: Prenez un train de Gand à Spa (environ 2h30-3h, avec changement à Liège).",
+        "<strong>♨️ Relaxation aux Thermes de Spa</strong>: Plongez dans les piscines d'eau thermale, profitez des saunas et hammams pour une détente profonde.",
+        "<strong>🌳 Balade douce dans les environs</strong>: Si le temps le permet, une courte promenade dans les forêts des Ardennes autour de Spa pour une bouffée d'air frais."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Thermes de Spa, Spa",
+          "categorie": "Thermes",
+          "coords": { "lat": 50.4930, "lng": 5.8670 }
+        },
+        {
+          "nom_recherche": "Forêt des Ardennes, Spa",
+          "categorie": "Nature",
+          "coords": { "lat": 50.4800, "lng": 5.8800 }
+        }
+      ],
+      "illustration": "jour10.jpg",
+      "encarts": [
+        {
+          "symbole": "🧖‍♀️",
+          "titre": "Bien-être",
+          "texte": "Les Thermes de Spa sont célèbres pour leurs eaux minérales. C'est l'endroit idéal pour se ressourcer."
+        }
+      ]
+    },
+    {
+      "jour": 11,
+      "symbole": "🚂",
+      "titre": "Retour vers Francfort, dernière soirée",
+      "legende": "La journée est consacrée au retour vers la région de Francfort, en prévision du vol de départ. Profitez d'une dernière soirée allemande pour savourer un bon repas et vous remémorer les moments forts de votre voyage.",
+      "lieu": "Francfort, Allemagne",
+      "activites": [
+        "<strong>🚆 Trajet retour vers Francfort</strong>: Prenez un train de Spa (via Liège) vers Francfort (environ 4h-5h).",
+        "<strong>🛏️ Installation à l'hôtel</strong>: Installez-vous pour votre dernière nuit en Allemagne.",
+        "<strong>🍽️ Dîner d'adieu</strong>: Savourez un dernier repas typiquement allemand dans un restaurant local, pour clore ce beau voyage en beauté."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Gare Centrale de Francfort, Francfort",
+          "categorie": "Gare",
+          "coords": { "lat": 50.1072, "lng": 8.6637 }
+        }
+      ],
+      "illustration": "jour11.jpg",
+      "encarts": [
+        {
+          "symbole": "💡",
+          "titre": "Conseil",
+          "texte": "Réservez vos billets de train à l'avance pour obtenir de meilleurs tarifs, surtout pour les longs trajets internationaux."
+        }
+      ]
+    },
+    {
+      "jour": 12,
+      "symbole": "🛫",
+      "titre": "Départ de Francfort",
+      "legende": "C'est le dernier jour de votre aventure. Après un petit-déjeuner tranquille, il est temps de se diriger vers l'aéroport de Francfort pour votre vol retour, la tête pleine de souvenirs de l'Allemagne et de la Belgique.",
+      "lieu": "Francfort, Allemagne",
+      "activites": [
+        "<strong>☕ Petit-déjeuner et derniers préparatifs</strong>: Profitez d'un dernier petit-déjeuner allemand et préparez vos bagages.",
+        "<strong>🛍️ Achats de dernière minute (optionnel)</strong>: Si le temps le permet, quelques souvenirs à l'aéroport ou à proximité.",
+        "<strong>🛫 Transfert à l'aéroport et vol retour</strong>: Dirigez-vous vers l'aéroport de Francfort (FRA) pour votre vol vers Jone, Mozambique."
+      ],
+      "points_interet": [
+        {
+          "nom_recherche": "Aéroport de Francfort, Francfort",
+          "categorie": "Aéroport",
+          "coords": { "lat": 50.0379, "lng": 8.5622 }
+        }
+      ],
+      "illustration": "jour12.jpg",
+      "encarts": [
+        {
+          "symbole": "✈️",
+          "titre": "Conseil aéroport",
+          "texte": "Arrivez à l'aéroport au moins 3 heures avant votre vol international pour les formalités."
+        }
+      ]
+    }
+  ],
+  "detail_budget": [
+    { "titre": "Budget vol:", "legende": "A partir de 973 €/pers", "symbole": "🛬" },
+    { "titre": "Budget transports:", "legende": "Environ 250-350 €/pers (trains interurbains et locaux)", "symbole": "🚆" },
+    { "titre": "Budget repas:", "legende": "Environ 600-800 €/pers (sur la base de 50-70€/jour)", "symbole": "🥗" },
+    { "titre": "Budget logement:", "legende": "Environ 1000-1400 €/pers (sur la base de 80-120€/nuit pour 3* en chambre double)", "symbole": "🛏️" },
+    { "titre": "Budget activités:", "legende": "Environ 150-250 €/pers (entrées musées, thermes, croisière)", "symbole": "🎭" }
+  ],
+  "periodes_ideales": [
+    { "titre": "Mai à Septembre", "symbole": "☀️" },
+    { "titre": "Décembre (marchés de Noël)", "symbole": "🎄" },
+    { "titre": "Février (ambiance hivernale, moins de foule)", "symbole": "❄️" }
+  ],
+  "infos_pratiques": [
+    { "titre": "En février, les températures varient entre 0 et 7°C. Prévoyez des vêtements très chauds, un bonnet, des gants et des chaussures imperméables.", "symbole": "🧣" },
+    { "titre": "L'Euro (€) est la monnaie utilisée en Allemagne et en Belgique. Les cartes de crédit sont largement acceptées, mais un peu de liquide est utile pour les petits commerces.", "symbole": "💳" },
+    { "titre": "Les transports en commun (trains, trams, bus) sont très efficaces et recommandés pour les déplacements entre villes et en ville.", "symbole": "🚆" },
+    { "titre": "La langue principale en Allemagne est l'allemand, en Belgique le néerlandais et le français. L'anglais est généralement bien compris dans les zones touristiques.", "symbole": "🗣️" }
+  ],
+  "infos_decallees": [
+    {
+      "symbole": "💡",
+      "titre": "Le saviez-vous ?",
+      "texte": "À Berlin (et dans l'ancienne Allemagne de l'Est), les feux de signalisation piétons ont des personnages uniques, les \"Ampelmännchen\", qui sont devenus de véritables icônes culturelles et des symboles de la nostalgie de l'Est."
+    },
+    {
+      "symbole": "🙃",
+      "titre": "Insolite",
+      "texte": "Le Manneken Pis de Bruxelles possède une garde-robe de plus de mille costumes, offerts par des dignitaires du monde entier. Il est habillé pour des occasions spéciales, des fêtes nationales aux événements sportifs!"
+    }
+  ],
+  "specialites_culinaires": [
+    {
+      "symbole": "🌭",
+      "titre": "Currywurst (Allemagne)",
+      "description": "Une saucisse de porc grillée ou bouillie, coupée en morceaux et servie avec une sauce au ketchup et au curry en poudre. Un classique de la street food allemande, particulièrement populaire à Berlin."
+    },
+    {
+      "symbole": "🍟",
+      "titre": "Frites belges (Belgique)",
+      "description": "Bien plus qu'une simple frite! Les frites belges sont croustillantes à l'extérieur et moelleuses à l'intérieur, souvent frites deux fois et servies avec une grande variété de sauces."
+    },
+    {
+      "symbole": "🧇",
+      "titre": "Gaufres de Liège (Belgique)",
+      "description": "Une gaufre épaisse et moelleuse, avec des morceaux de sucre perlé qui caramélisent à la cuisson. Idéale à déguster chaude, nature ou avec des garnitures simples."
+    }
+  ],
+  "liens_utiles": [
+    { "legende": "Vols", "titre": "Réserve ton vol", "url": "https://www.kayak.fr/flights/MPM-FRA/2026-02-05/2026-02-17", "symbole": "🛬" },
+    { "legende": "Infos officielles Allemagne", "titre": "Germany Travel", "url": "https://www.germany.travel/fr/index.html", "symbole": "📘" },
+    { "legende": "Infos officielles Belgique", "titre": "Visit Belgium", "url": "https://www.visitbelgium.com/fr", "symbole": "🇧🇪" },
+    { "legende": "Horaires des trains (Allemagne)", "titre": "Deutsche Bahn", "url": "https://www.bahn.com/fr", "symbole": "🚆" },
+    { "legende": "Horaires des trains (Belgique)", "titre": "SNCB", "url": "https://www.belgiantrain.be/fr", "symbole": "🚆" },
+    { "legende": "Météo", "titre": "Météo en Europe", "url": "https://www.accuweather.com/fr/europe-weather", "symbole": "🌤️" }
+  ]
+}
